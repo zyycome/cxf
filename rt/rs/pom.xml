@@ -37,5 +37,6 @@
         <module>extensions/providers</module>
         <module>extensions/search</module>
         <module>security</module>
+        <module>sse</module>
     </modules>
 </project>
